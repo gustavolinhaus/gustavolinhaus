@@ -9,21 +9,11 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/gustavolinhaus/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=gustavolinhaus&show_icons=true&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/gustavolinhaus/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolinhaus&layout=compact&theme=dracula"
-    />
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/gustavolinhaus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavolinhaus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolinhaus&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
