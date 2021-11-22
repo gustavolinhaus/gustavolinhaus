@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-linhaus-687608194/) 
 
 - 🚀 Web Developer
-- 🎓 Graduating in Information Systems
+- 🎓 Graduating in Information Systems - IFES
 - 🇧🇷 Live in Brazil
 
 ---
