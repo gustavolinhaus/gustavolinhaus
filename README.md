@@ -5,7 +5,7 @@
 
 - 🚀 Web Developer
 - 🎓 Graduating in Information Systems
-- 🏠 🇧🇷 Live in Brazil
+- 🇧🇷 Live in Brazil
 
 ---
 
