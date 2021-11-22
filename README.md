@@ -1,11 +1,11 @@
-### Olá, eu sou o Gustavo Linhaus Fernandes 👋
+### Hi, I'm Gustavo Linhaus Fernandes 👋
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gustavolinhaus)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-linhaus-687608194/) 
 
-- 🚀 Desenvolvedor Web
-- 🎓 Graduando em Sistemas de Informação pelo Instituto Federal do Espírito Santo - Campus Colatina
-- 🏠 Colatina, ES
+- 🚀 Web Developer
+- 🎓 Graduating in Information Systems
+- 🏠 🇧🇷 Live in Brazil
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-**Linguagens, Frameworks e Ferramentas:**
+**Languages, Frameworks and Tools:**
 
 <img height="25" src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></img>
