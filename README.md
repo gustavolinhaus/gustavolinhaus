@@ -1,7 +1,6 @@
 ### Hi, I'm Gustavo Linhaus Fernandes 👋
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gustavolinhaus)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-linhaus-687608194/) 
 
 - 🚀 Web Developer
 - 🎓 Graduating in Information Systems - IFES
