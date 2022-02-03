@@ -1,7 +1,5 @@
 ### Hi, I'm Gustavo Linhaus Fernandes 👋
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/gustavolinhaus)
-
 - 🚀 Web Developer
 - 🎓 Graduating in Information Systems - IFES
 - 🇧🇷 Live in Brazil
