@@ -1,6 +1,6 @@
 ### Hi, I'm Gustavo Linhaus Fernandes 👋
 
-- 🚀 Web Developer
+- 🚀 Java Developer
 - 🎓 Graduating in Information Systems - IFES
 - 🇧🇷 Live in Brazil
 
