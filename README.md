@@ -1,6 +1,7 @@
 ### Hi, I'm Gustavo Linhaus Fernandes 👋
 
-- 🚀 Java Developer
+- 🚀 Full Stack Developer
+- 💼 I'm currently working on [Basis](https://www.basis.com.br/)
 - 🎓 Graduating in Information Systems - IFES
 - 🇧🇷 Live in Brazil
 
