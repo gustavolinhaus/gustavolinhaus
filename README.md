@@ -2,7 +2,7 @@
 
 - 🚀 Full Stack Developer
 - 💼 I'm currently working on [Basis](https://www.basis.com.br/)
-- 🎓 Graduating in Information Systems - IFES
+- 🎓 Graduated with a Bachelor in Information Systems - IFES
 - 🇧🇷 Live in Brazil
 
 ---
